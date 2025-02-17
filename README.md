@@ -2,6 +2,7 @@ Create a simple script file and push it to repo. Create a project in Jenkins con
 
 
 ![image](https://github.com/user-attachments/assets/afa38232-19f4-4bae-8c9d-109f3015c5cd)
+![image](https://github.com/user-attachments/assets/36a3482a-ec06-4dc3-aa59-f5ca9a82a51c)
 
 
 
